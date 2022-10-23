@@ -1,6 +1,6 @@
 # @alwatr/signal
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[[Issues][issues-shield]][issues-url]
+[[MIT License][license-shield]][license-url]
 
 Elegant powerful event system for handle global signals and states written in tiny TypeScript module.
 
